@@ -1,1 +1,1 @@
-My first readme
+This is a repository for ALX project.
